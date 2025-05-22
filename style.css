@@ -1,0 +1,43 @@
+h1 {
+    padding: 90px;
+    background-color: cornflowerblue;
+    font-size: 50px;
+}
+
+
+p  {
+    font-size: 30px;
+}
+
+
+div  {
+   padding: 300px; 
+   background-color: darkgrey;
+   text-align: left;
+}
+
+
+footer  {
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 40px;
+}
+
+footer p  {
+    font-size: 25px;
+}
+
+
+footer img  {
+    width: 100px;
+    height: 100px;
+}
+
+li  {
+    font-size: 30px;
+}
+
+a  {
+    text-decoration: none;
+    color: black;
+}
