@@ -3,13 +3,13 @@ body  {
 }
 
 h1  {
-    font-size: 50px;
-    padding: 40px;
-    background-color: mediumorchid;
+    font-size: 45px;
+    
+    
 }
 
 a  {
-    font-size: 40px;
+    font-size: 55px;
     color: cornflowerblue;
     display: block;
     text-align: right;
@@ -31,4 +31,18 @@ footer img  {
     margin: auto;
     width: 150px;
     height: 150px;
+}
+
+.ladinho  {
+    display: flex;
+    
+}
+
+.segundafeira  {
+    margin-right: 980px;
+}
+
+div  {
+    background-color: mediumorchid;
+    padding: 60px;
 }
