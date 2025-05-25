@@ -1,13 +1,11 @@
 body  {
-    background-color: rgb(27, 211, 211);
+    background-color: #a9cfe5;
 }
 
 
 h1  {
-    
-    
     font-size: 50px;
-    
+    color: white;
 }
 
 
@@ -26,22 +24,9 @@ li {
     
 }
 
-footer{
-    padding: 30px;
-    background-color: rgb(7, 116, 233);
-    text-align: center;
-    font-size: 20px;
-    color: black;
-}
-
-footer img  {
-    width: 150px;
-    height: 150px;
-    
-}
 
 div  {
-    background-color: rgb(7, 116, 233);
+    background-color: #021b33;
     padding: 40px;
 }
 
@@ -51,4 +36,18 @@ div  {
 
 .tercafeira {
     margin-right: 1000px;
+}
+
+footer{
+    padding: 30px;
+    background-color: #021b33;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    color: white;
+}
+
+footer img  {
+    width: 150px;
+    height: 150px;
 }

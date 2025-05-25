@@ -1,35 +1,25 @@
 body  {
-    background-color: cadetblue;
+    background-color: #8b32f4;
 }
 
 a  {
     font-size: 60px;
-    color: blueviolet;
+    color: white;
     display: block;
     text-align: right;
 }
 
 h1  {
+    color: black;
     font-size: 50px;
-    
 }
+
 
 li  {
     font-size: 40px;
+    color: white;
 }
 
-footer img  {
-    display: block;
-    margin: auto;
-    width: 150px;
-    height: 150px;
-}
-
-footer  {
-    padding: 30px;
-    text-align: center;
-    background-color: aqua;
-}
 
 .ladodooutro  {
     display: flex;
@@ -40,6 +30,21 @@ footer  {
 }
 
 div  {
-    background-color: aqua;
+    background-color: #5320a6;
     padding: 40px;
+}
+
+footer  {
+    padding: 30px;
+    text-align: center;
+    background-color: #5320a6;
+    font-size: 20px;
+    color: white;
+}
+
+footer img  {
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 150px;
 }

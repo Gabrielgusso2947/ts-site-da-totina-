@@ -1,0 +1,45 @@
+body  {
+    background-color: #63a593;
+}
+
+h1  {
+    font-size: 50px;
+}
+
+li  {
+    font-size: 35px;
+}
+
+a  {
+    font-size: 60px;
+    color: mediumslateblue;
+}
+
+
+.ladoalado  {
+    display: flex;
+    
+}
+
+.quintafeira  {
+    margin-right: 900px;
+}
+
+div  {
+    padding: 60px;
+    background-color: #3b6654;
+    border-radius: 10px;
+}
+
+footer  {
+    padding: 30px;
+    background-color: #3b6654;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+footer img  {
+    width: 150px;
+    height: 150px;
+}

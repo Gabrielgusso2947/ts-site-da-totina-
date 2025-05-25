@@ -1,0 +1,48 @@
+body  {
+    background-color: #8ba4d5;
+}
+
+h1  {
+    font-size: 55px;
+    
+}
+
+li  {
+    font-size: 30px;
+    color: black;
+}
+
+a  {
+    font-size: 60px;
+    color: #8b32f4;
+}
+
+div  {
+    padding: 60px;
+    background-color: #12577b;
+}
+
+
+.ladoalado  {
+    display: flex;
+}
+
+
+.sextafeira  {
+    margin-right: 900px;
+}
+
+
+
+footer  {
+    padding: 70px;
+    background-color: #12577b;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+footer img  {
+    width: 150px;
+    height: 150px;
+}

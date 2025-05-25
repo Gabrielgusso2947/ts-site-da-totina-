@@ -1,5 +1,5 @@
 body  {
-    background-color: mediumspringgreen;
+    background-color: #8ba4d5;
 }
 
 h1  {
@@ -17,21 +17,9 @@ a  {
 
 li {
     font-size: 35px;
+    color: white;
 }
 
-
-footer  {
-    padding: 30px;
-    text-align: center;
-    background-color: mediumorchid;
-}
-
-footer img  {
-    display: block;
-    margin: auto;
-    width: 150px;
-    height: 150px;
-}
 
 .ladinho  {
     display: flex;
@@ -43,6 +31,22 @@ footer img  {
 }
 
 div  {
-    background-color: mediumorchid;
+    background-color: #3c4e69;
     padding: 60px;
+    border-radius: 10px;
+}
+
+footer  {
+    padding: 30px;
+    text-align: center;
+    background-color: #3c4e69;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+footer img  {
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 150px;
 }
