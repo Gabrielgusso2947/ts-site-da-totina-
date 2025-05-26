@@ -1,13 +1,14 @@
 h1 {
     padding: 90px;
     background-color: cornflowerblue;
-    font-size: 50px;
+    font-size: 80px;
 }
-
 
 p  {
-    font-size: 30px;
+    font-size: 70px;
+    background-color: darkgray;
 }
+
 
 
 div  {
@@ -18,13 +19,16 @@ div  {
 
 
 li  {
-    font-size: 30px;
+    font-size: 70px;
 }
+
 
 a  {
     text-decoration: none;
     color: black;
+    
 }
+
 
 footer  {
     background-color: cornflowerblue;
@@ -33,9 +37,12 @@ footer  {
     font-size: 20px;
 }
 
+
 footer p  {
     font-size: 25px;
+    background-color: cornflowerblue;
 }
+
 
 
 footer img  {
